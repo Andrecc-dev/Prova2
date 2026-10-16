@@ -1,0 +1,64 @@
+.logo{
+    width: 350px;
+    padding-top: 15px;
+    margin-left: 35px;
+}
+
+.navegation {
+    margin-bottom: 25px;
+}
+
+
+.inicio {
+    background-color: #2454A0;
+    font-family: Inter;
+    color: white;
+}
+span{
+    font-weight: bold;
+}
+.Matricule-se{
+    background-color: white;
+    padding: 12px;
+    margin: 12px;
+    color: #2454A0;
+}
+.findes{
+    margin-left: 750px;
+    margin-top: 25px;
+    border-radius: 15px;
+    width: 450px;
+}
+
+.card-curso{
+    background-color: #2454A0;
+}
+
+.formulario{
+    background-color: #2454A0;
+    color: white;
+    margin-bottom: 25px;
+}
+
+
+ul{
+    list-style-type: none;
+    font-size: 22px;
+}
+
+.sac{
+    font-size: 24px;
+}
+.Cursos-em-destaque{
+    color: white;
+}
+
+.formulario{
+    background-color: #2454A0;
+}
+
+button{
+    background-color: #FB5909;
+    font-weight: bold;
+    color: white;
+}
