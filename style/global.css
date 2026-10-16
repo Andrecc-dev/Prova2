@@ -24,14 +24,14 @@ span{
     color: #2454A0;
 }
 .findes{
-    margin-left: 750px;
+    margin-left: 850px;
     margin-top: 25px;
     border-radius: 15px;
     width: 450px;
 }
 
 .card-curso{
-    background-color: #2454A0;
+    background-color: #007BFF;
 }
 
 .formulario{
@@ -51,6 +51,7 @@ ul{
 }
 .Cursos-em-destaque{
     color: white;
+    text-align: center;
 }
 
 .formulario{
@@ -61,4 +62,19 @@ button{
     background-color: #FB5909;
     font-weight: bold;
     color: white;
+}
+
+.Matricule-se{
+    width: 550px;
+    border-radius: 200px;
+}
+main{
+    background-color: #2454A0   ;
+}
+.local{
+    background-color: #FB5909;
+    width: 75px;
+    font-size: bold;
+    color: white;
+    margin-bottom: 15px;
 }
